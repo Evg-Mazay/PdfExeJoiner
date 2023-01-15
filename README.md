@@ -7,7 +7,7 @@ You can join any .exe file with almost[^2] any .pdf file.
 * If you rename result file to .pdf, it can be viewed as usual pdf document.
 * if you rename result file to .exe, it can be run as usual windows program.
 
-![Program](/PdfPreview.png)
+![Program](/Preview.png)
 
 
 [^1]: Not strictly conform with pdf specification, but valid for 90% of editors
