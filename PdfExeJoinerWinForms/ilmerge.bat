@@ -1,0 +1,1 @@
+~/.dotnet/dotnet.exe msbuild . /t:ILMerge
